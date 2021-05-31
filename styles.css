@@ -14,8 +14,8 @@ body {
 }
 
 #logo {
-  width: 40%;
-  height: 40%;
+  width: 20%;
+  height: 20%;
   margin: auto;
 }
 
@@ -99,5 +99,5 @@ p {
 
 #step7gif {
   height: 50%;
-  width: 100%;
+  width: 50%;
 }
