@@ -1,0 +1,102 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.header {
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 90%;
+  width: 88%;
+  border-radius: 30px;
+  border: solid purple;
+}
+
+#logo {
+  width: 75%;
+  height: 80%;
+  margin: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.welcome {
+  padding: 30px;
+  padding-bottom: 0px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 28px;
+}
+
+.step {
+  padding: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: white;
+  border: solid white 5px;
+}
+
+div h2 {
+  font-size: 35px;
+}
+
+div p {
+  font-size: 25px;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#step1 {
+  background-color: #D81200;
+  color: black;
+}
+
+#step2 {
+  background-color: #FC7F36;
+  color: white;
+}
+
+#step3 {
+  background-color: #F9F159;
+  color: black;
+}
+
+#step4 {
+  background-color: #368D45;
+  color: white;
+}
+
+#step5 {
+  background-color: rgb(29, 78, 233);
+  color: black;
+}
+
+#step6 {
+  background-color: #4B0082;
+  color: white;
+}
+
+#step7 {
+  background-color: #8F00FF;
+  color: black;
+}
+
+#step7gif {
+  height: 150%;
+}
